@@ -1,6 +1,6 @@
 # Weather App Project
 
-![Weather App Demo](images/demo.png)
+
 
 ## Overview
 
@@ -15,26 +15,10 @@ The project was developed as a beginner-level JavaScript project and serves as a
 - Display of temperature, humidity, and wind speed
 - Dynamic city images that change with each search
 
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Open the `index.html` file in your web browser.
-3. Enter the name of the city you want to check the weather for in the input field.
-4. Press the "Search" button to retrieve weather data.
-
 ## Technologies Used
  
  - HTML
  - CSS
  - JavaScript
-
-## APIs Used
-
-- [OpenWeather API](https://openweathermap.org/api) for weather data retrieval.
-- [Unsplash API](https://unsplash.com/developers) for dynamic city images.
-
-## Credits
-
-- [**GreatStack**](https://www.youtube.com/@GreatStackDev)
 
 
